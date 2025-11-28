@@ -1,4 +1,4 @@
-# garden-game
+# My Garden
 ## Notice:
 ### - This is in Alpha version so it can break
 
